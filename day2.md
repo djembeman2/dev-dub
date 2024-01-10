@@ -1,0 +1,10 @@
+message 1 = Pancakes
+message 2 = Waffles
+message 3 = French Toast
+messgae 4 = Galaxy 
+message 5 = Dinosaur
+messgae 6 = Rainbow
+message 7 = Pyramid
+messgae 8 = Butterfly
+messgae 9 = Comet
+messgae 10 = Valcano
