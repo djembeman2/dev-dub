@@ -26,7 +26,7 @@ console.log(localMessage);
 updateMessage();
 
 // Error 7:
-document.getElementById('#testButton').addEventListener('click', testFunction);
+document.getElementById('testButton').addEventListener('click', testFunction);
 
 function testFunction() {
   console.log('Test function executed');
@@ -70,8 +70,11 @@ console.log(greeting);
 
 // Error 16: 
 for (let i = 0; i < 5; i++) {
+  if (i + 3 == 5){
+    console.log("beatiful");
+  }
     console.log(i);
-}
+} 
 
 // Error 17:
 let five = '5';
