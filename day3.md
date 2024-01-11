@@ -1,0 +1,10 @@
+message = whisper 
+message = meadow
+message = nebula
+message = zenith
+message = dinosaur
+message = pyramid
+message = French Toast
+message = galaxy
+message = rainbow
+message = orbit
