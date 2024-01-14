@@ -17,3 +17,4 @@ Network I cant really speak much about this just to say the number was very low 
 <img title= "network" scr="/Volumes/NO NAME/dev dub/screenshots/Screen Shot 2024-01-13 at 7.35.07 PM.png">
 
 One thing about my capstone is I felt like it was very basic and I cant wait to become a better coder so I can add some real style with confidnece.
+I am looking forward to learning how to use these tools to improve my web devolepment .
