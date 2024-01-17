@@ -18,13 +18,13 @@ In this README.md file, document each problem. Write a sentence for each problem
 
 #### Problem 1:
 
-- Description: [Your explanation here]
+- Description: [The head of the html was missing the meta data and it has CSS that is not being used  ]
 
 #### Problem 2:
 
-- Description: [Your explanation here]
+- Description: [the image is a large file]
 
-[Continue with the remaining problems]
+[the file is using a library call jquery]
 
 ### Step 3: Propose Solutions
 
@@ -32,13 +32,13 @@ For each identified problem, propose a solution or an optimization strategy. Bri
 
 #### Problem 1:
 
-- Solution: [Your proposed solution here]
+- Solution: [we would need to add the meta data and css ref. also move the css to the pacge called css]
 
 #### Problem 2:
 
-- Solution: [Your proposed solution here]
+- Solution: [we need to resize the img and use proper sizing for the page load time.]
 
-[Continue with solutions for the remaining problems]
+[we would actully use queryslector for the line of code it more enfficent]
 
 ### Step 4: Reflect
 
